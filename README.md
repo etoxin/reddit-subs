@@ -1,7 +1,16 @@
 
-Simple module that retrieves a sub reddits JSON feed. Module is a Promise.
+Simple module that retrieves a sub reddits JSON feed. Module returns a Promise.
 
-### Ussage
+
+## Installation
+
+    $ npm install reddit-subs
+
+## Usage
+
+    var redditSubs = require('reddit-subs');
+
+## Example
 
     var redditSubs = require('reddit-subs');
 
