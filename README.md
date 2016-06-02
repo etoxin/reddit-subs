@@ -1,4 +1,7 @@
-[![npm version](https://badge.fury.io/js/reddit-subs.svg)](https://badge.fury.io/js/reddit-subs)
+Reddit Subs
+===========
+
+[ ![npm version](https://badge.fury.io/js/reddit-subs.svg)](https://badge.fury.io/js/reddit-subs)
 
 Simple module that retrieves a sub reddits JSON feed. Module is a Promise.
 
