@@ -1,0 +1,25 @@
+{
+  "name": "reddit-subs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etoxin/reddit-subs.git"
+  },
+  "author": {
+    "name": "Adam Lusted",
+    "email": "adam@etoxin.net"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etoxin/reddit-subs/issues"
+  },
+  "homepage": "https://github.com/etoxin/reddit-subs#readme",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
