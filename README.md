@@ -1,4 +1,5 @@
-# Reddit Subs
+Reddit Subs
+===
 
 [![npm version](https://badge.fury.io/js/reddit-subs.svg)](https://badge.fury.io/js/reddit-subs)
 
