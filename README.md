@@ -10,12 +10,20 @@ Simple module that retrieves a sub reddits JSON feed. Module returns a Promise.
 
     var redditSubs = require('reddit-subs');
 
-## Example
+## Examples
+
+Basic example
 
     var redditSubs = require('reddit-subs');
+    
+    redditSubs('pics').then(function(res){
+        console.log(res);
+    });
+
+With error handling.
 
     redditSubs('pics').then(function(res){
         console.log(res);
-    }).catch(function(res){
-        console.log('error');
+    }).catch(function(err){
+        console.log(err);
     });
