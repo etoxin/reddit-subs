@@ -5,7 +5,7 @@ var request = require('request');
 /**
  * @type {string} Reddit api
  */
-const api = 'https://www.reddit.com/r/';
+var api = 'https://www.reddit.com/r/';
 
 /**
  * @param subReddit {String} name of the subreddit
